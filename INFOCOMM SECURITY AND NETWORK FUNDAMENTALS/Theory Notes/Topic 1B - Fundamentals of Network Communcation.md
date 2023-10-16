@@ -1,6 +1,15 @@
 # Topic 1B The Fundermental of Network Communication
 
 # Table of Contents
+- [Topic 1B The Fundermental of Network Communication](#topic-1b-the-fundermental-of-network-communication)
+- [Table of Contents](#table-of-contents)
+- [Network Components](#network-components)
+- [Steps of Network Communication](#steps-of-network-communication)
+- [Layers of Networking Communication Process](#layers-of-networking-communication-process)
+- [How Two Computers Communicate Local Area Network (LAN)](#how-two-computers-communicate-local-area-network-lan)
+- [LANs, Internetworks, MANs, WANs](#lans-internetworks-mans-wans)
+- [Internet, Intranet, Extranet](#internet-intranet-extranet)
+- [Packets and Frames](#packets-and-frames)
 
 -----------------
 

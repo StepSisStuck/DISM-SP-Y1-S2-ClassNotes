@@ -1,7 +1,7 @@
-# Topic 1 - Introduction to Information Security and Computer Networks
+# Topic 1A - Introduction to Information Security and Computer Networks
 
 # Table of Contents
-- [Topic 1 - Introduction to Information Security and Computer Networks](#topic-1---introduction-to-information-security-and-computer-networks)
+- [Topic 1A - Introduction to Information Security and Computer Networks](#topic-1a---introduction-to-information-security-and-computer-networks)
 - [Table of Contents](#table-of-contents)
 - [What is Information Security?](#what-is-information-security)
 - [Defining Information Security](#defining-information-security)
