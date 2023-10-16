@@ -224,3 +224,41 @@ Social engineering psyychological manipulation techniques include:
 - Shoulder surfing is a type of social engineering attack in which the attacker looks over the victim’s shoulder to obtain confidential information.
 
 
+![Alt text](../Images/3.png)
+
+# Data Impacts
+
+| Impact | Description | Example |
+| --- | --- | --- |
+| Confidentiality | The unauthorized disclosure of information | An attacker gains access to a database containing confidential information. |
+| Integrity | The unauthorized modification of information | An attacker modifies the contents of a database. |
+| Availability | The disruption of access to or use of information or an information system | An attacker launches a denial-of-service attack on a web server. |
+
+# Effects of the Organization 
+
+- Effects on the Organization
+- The attacks can have a negative impact on the organization.
+- The effects of the attacks on the organization include:
+    - Financial loss
+    - Loss of reputation
+    - Loss of customer trust
+    - Loss of competitive advantage
+    - Legal implications
+    - Loss of intellectual property
+    - Loss of productivity
+    - Loss of business continuity
+    - Loss of revenue
+    - Loss of business opportunities
+    - Loss of business partners
+    - Loss of employees
+    - Loss of business
+
+
+
+
+# Summary
+
+- Information security is the protection of information and its critical elements, including the systems and hardware that use, store, and transmit that information.
+
+
+
