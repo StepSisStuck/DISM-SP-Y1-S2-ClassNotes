@@ -36,8 +36,7 @@
 - Information security is a multidisciplinary area of study and professional activity that is concerned with the development and implementation of security mechanisms of all available types (technical, organizational, human-oriented, and legal) in order to keep information in all its locations (within and outside the organization’s perimeter) and, consequently, information systems, where information is created, processed, stored, transmitted, and destroyed, free from threats.
 
 
-![Alt text](<../Images/Screenshot 2023-10-16 084426.png>)
-
+![Alt text](<../Images/1.png>)
 
 # Threat Actors
 
@@ -195,4 +194,33 @@ Social engineering psyychological manipulation techniques include:
 - Text-based phishing is a type of phishing attack that is carried out over text messages.
 - Image spam cannot be detected by spam filters.
 - **Spim** is unsolicited messages that are sent over instant messaging platforms.
+
+- Hoaxes are false messages that are designed to trick people into performing actions or divulging confidential information.
+    - The hoax purports to be from a legitimate source.
+- A watering hole attack is an attack in which the attacker infects a website that is frequently visited by the target.
+
+- Offline social engineering attacks are attacks that are carried out in the real world.
+
+- Physical Proceduures
+- Physical attacks are attacks that are carried out in the real world.
+- Dumster diving is a type of physical attack in which the attacker searches through the victim’s trash to obtain confidential information.
+- Tailgating is a type of physical attack in which the attacker follows the victim into a restricted area.
+- Shoulder surfing is a type of physical attack in which the attacker looks over the victim’s shoulder to obtain confidential information.
+
+- Eavesdropping is a type of physical attack in which the attacker listens to the victim’s conversation to obtain confidential information.
+
+- Offline social engineering attacks include:
+    - Shoulder surfing
+    - Dumpster diving
+    - Tailgating
+    - Eavesdropping
+    - Piggybacking
+    - Impersonation
+    - Reverse social engineering
+    - Vishing
+    - Smishing
+    - USB key drop
+
+- Shoulder surfing is a type of social engineering attack in which the attacker looks over the victim’s shoulder to obtain confidential information.
+
 
