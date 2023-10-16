@@ -117,3 +117,82 @@
     - Android
     - iOS
     - Web
+
+## Third Parties
+- Almost all businesses rely on third-party vendors for some aspect of their business.
+- Examples of third parties include:
+    - Cloud service providers
+    - Software vendors
+    - Hardware vendors
+    - Managed service providers
+    - Consultants
+    - Contractors
+    - Suppliers
+    - Partners
+    - Customers
+
+- Vendor valnerabilities can be exploited by attackers to gain access to an organization’s network and data.
+
+- Connectivty between third parties and organizations can be exploited by attackers to gain access to an organization’s network and data.
+- One of the major risks of third-party vendors is that they may not have the same level of security as the organization.
+
+## Attack Vectors
+- An attack vector is a path or means by which an attacker can gain access to a computer or network server in order to deliver a payload or malicious outcome.
+
+- Attack vectors can be classified into two categories:
+    - Network-based attack vectors
+    - Host-based attack vectors
+    - Network-based attack vectors are attacks that are carried out over a network.
+    - Email
+    - Web
+    - Removable media
+    - Cloud
+    - Supply chain
+    - Social engineering
+    - Social Media
+
+- Host-based attack vectors are attacks that are carried out on a host.
+
+- Host-based attack vectors include:
+    - Malware
+    - Physical
+    - Insider
+    - Wireless
+    - Mobile
+    - Application
+    - Configuration
+    - Operating system
+    - Firmware
+    - Virtualization
+    - Containerization
+
+# Social Engineering
+
+- Social engineering is means of eliciting information (Gathering information) from people by gaining their trust.
+- It is also used to manipulate people into performing actions or divulging confidential information.
+- These campains can be found exclusively online or in the real world.
+- Psychological manipulation is a type of social engineering that is used to trick people into divulging confidential information.
+- Social engineering attacks can be classified into two categories:
+    - Online social engineering attacks
+    - Offline social engineering attacks
+
+- Attackers Use a variety of techniques to trick people into divulging confidential information.
+- provide a reason
+- project confidence
+- use a sense of urgency
+- use a sense of fear
+- use a sense of curiosity
+
+- Online social engineering attacks are attacks that are carried out over the internet.
+
+
+## Social Engineering Attacks P2
+Social engineering psyychological manipulation techniques include:
+- **Impersonation** is masquerading as a real or fictitious character.
+- **Phishing** is a type of social engineering attack that is carried out over email.
+- **Redirection** is when an attacker redirects a user to a malicious website.
+- **Spam** is unsolicited email that is sent in bulk.
+- Text-based phishing is a type of phishing attack that is carried out over text messages.
+- Image spam cannot be detected by spam filters.
+- **Spim** is unsolicited messages that are sent over instant messaging platforms.
+
