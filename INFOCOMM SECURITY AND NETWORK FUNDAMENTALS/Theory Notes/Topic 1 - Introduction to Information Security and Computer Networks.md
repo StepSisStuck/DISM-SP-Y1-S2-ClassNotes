@@ -51,8 +51,32 @@
 
 - There are three types of hackers
     - White hat hackers
+        - White hat hackers are also known as ethical hackers.
+        - Penetration testers are white hat hackers who are hired by organizations to test the security of their information systems.
     - Black hat hackers
+        - Black hat hackers are also known as crackers.
+        - They are individuals who hack for personal gain or for some malicious intent.
     - Grey hat hackers
+        - Grey hat hackers are a blend of both black hat and white hat hackers.
 
 - The term script kiddie is used to describe a person who uses existing computer scripts or code to hack into computers, lacking the expertise to write their own.
+
+# Script Kiddies
+
+- Script kiddies are individuals who use existing computer scripts or code to hack into computers, lacking the expertise to write their own.
+
+- Script kiddies are often young people who lack the ability to write sophisticated code or perform complex tasks.
+
+
+# Hacktivists
+- Individuals who hack for a political or social cause are known as hacktivists.
+- These types of attacks by hacktivists are known as hacktivism.
+- Hacktivists are often motivated by religious or political beliefs.
+
+# State Actors
+- State actors are government-sponsored hackers who are often highly skilled and well-funded.
+- Many security experts believe that state actors are behind some of the most sophisticated attacks.
+- State actors involve in cyberwarfare.
+- APTs (Advanced Persistent Threat) are a group of state-sponsored hackers who are highly skilled and well-funded.
+
 
