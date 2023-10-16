@@ -80,3 +80,40 @@
 - APTs (Advanced Persistent Threat) are a group of state-sponsored hackers who are highly skilled and well-funded.
 
 
+# Insiders
+- Insiders are individuals who have legitimate access to an organization’s internal resources.
+- These attacks are often difficult to detect and prevent.
+- Six our of ten cyberattacks are carried out by insiders.
+- The focus of the insiders was: 
+- 1. Financial gain
+- 2. Disgruntled employees
+- 3. Disgruntled ex-employees
+- 4. Spies
+- 5. Careless employees
+- 6. Careless ex-employees
+
+# Other Threat Actors  
+
+![Alt text](../Images/2.png)
+
+# Valunerabilities and Attacks
+
+- A valnerability is a weakness or a fault in a system or protection mechanism that exposes information to attack or access by unauthorized users.
+- Cybersecurity valnerabilities can be classified into three categories:
+    - Software valnerabilities
+    - Hardware valnerabilities
+    - Human valnerabilities
+
+- Platforms 
+- A computer platform is the combination of hardware and software that provides the environment for running applications.
+- All platforms have valnerabilities that can be exploited by attackers.
+  - Legacy Platforms (Windows 7)
+  - On Premise Platforms
+  - Cloud Platforms
+- The most common platforms are:
+    - Windows
+    - Linux
+    - Mac OS
+    - Android
+    - iOS
+    - Web
