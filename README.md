@@ -26,5 +26,6 @@ This repository is a collection of resources for the DCDF module. The resources 
 - [LINUX ADMINISTRATION AND SECURITY](./LINUX%20ADMINISTRATION%20AND%20SECURITY)
 -----------------
 # Large Files Template
+[Large File Tags](https://github.com/StepSisStuck/DISM-SP-Y1-S2-ClassNotes/tags)
 
 
