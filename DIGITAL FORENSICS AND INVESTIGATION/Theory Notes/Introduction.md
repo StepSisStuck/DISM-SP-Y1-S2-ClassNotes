@@ -6,7 +6,9 @@
 -------------------------
 # Digital Forensics Investigation Process
 
-![](https://imgur.com/VyQV6cc)
+![](https://i.imgur.com/VyQV6cc.jpg)
+
+
 # Objectives of this course
 
 - Understand the digital forensics investigation process
@@ -39,7 +41,9 @@
 ## Digital investigation falls into two categories:
 - Public sector Investigation
 - Private sector Investigation
-![Alt text](../Images/2.png)
+![](https://i.imgur.com/2on7VeM.png)
+
+
 
 
 
