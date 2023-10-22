@@ -1,6 +1,25 @@
 # Introduction to Digital Forensics Investigation
 
 # Table of Contents
+- [Introduction to Digital Forensics Investigation](#introduction-to-digital-forensics-investigation)
+- [Table of Contents](#table-of-contents)
+- [Digital Forensics Investigation Process](#digital-forensics-investigation-process)
+- [Objectives of this course](#objectives-of-this-course)
+- [Overview of Digital Forensics Investigation Process](#overview-of-digital-forensics-investigation-process)
+  - [The Fourth Amendment](#the-fourth-amendment)
+- [Understanding Case Law](#understanding-case-law)
+- [Developing Digital Forensics Resources](#developing-digital-forensics-resources)
+  - [Digital investigation falls into two categories:](#digital-investigation-falls-into-two-categories)
+- [Preparing for Digital Forensics Investigation](#preparing-for-digital-forensics-investigation)
+  - [Public Sector Investigation](#public-sector-investigation)
+    - [Following Legal Procedures](#following-legal-procedures)
+  - [Understanding Private-Sector Investigations](#understanding-private-sector-investigations)
+    - [Example of a Logon Banner](#example-of-a-logon-banner)
+- [Maintaining Professional Conduct](#maintaining-professional-conduct)
+- [Preparing a digital forensics investigation](#preparing-a-digital-forensics-investigation)
+- [Overview of a Company Policy Violation Investigation](#overview-of-a-company-policy-violation-investigation)
+- [Taking a Systematic Approach to Digital Forensics Investigation](#taking-a-systematic-approach-to-digital-forensics-investigation)
+- [Summary](#summary)
 
 
 -------------------------
