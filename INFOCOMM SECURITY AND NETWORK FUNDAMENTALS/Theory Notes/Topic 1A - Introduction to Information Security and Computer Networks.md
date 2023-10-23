@@ -54,7 +54,7 @@
 - Information security is a multidisciplinary area of study and professional activity that is concerned with the development and implementation of security mechanisms of all available types (technical, organizational, human-oriented, and legal) in order to keep information in all its locations (within and outside the organization’s perimeter) and, consequently, information systems, where information is created, processed, stored, transmitted, and destroyed, free from threats.
 
 
-![Alt text](<../Images/1.png>)
+![img](https://i.imgur.com/n4Gyioe.png)
 
 # Threat Actors
 
@@ -111,7 +111,7 @@
 
 # Other Threat Actors  
 
-![Alt text](../Images/2.png)
+![img](https://i.imgur.com/bgYwJio.png)
 
 # Valunerabilities and Attacks
 
@@ -242,7 +242,7 @@ Social engineering psyychological manipulation techniques include:
 - Shoulder surfing is a type of social engineering attack in which the attacker looks over the victim’s shoulder to obtain confidential information.
 
 
-![Alt text](../Images/3.png)
+![img](https://i.imgur.com/3qbKAjQ.png)
 
 # Data Impacts
 
