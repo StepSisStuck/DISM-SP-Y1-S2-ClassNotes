@@ -44,7 +44,7 @@
 - These are the same steps that occur when a computer accesses a resource on the Internet
 
 # Layers of Networking Communication Process
-![Alt text](../Images/4.png)
+![img](https://i.imgur.com/m5adNNi.png)
 
 |Step|Layer|Description|
 |----|-----|-----------|
@@ -75,7 +75,7 @@
 7. The network protocol stack at Computer B reassembles the packets into data
 8. The data is sent to the application
 
-![Alt text](../Images/5.png)
+![img](https://i.imgur.com/eZQEP8c.png)
 
 # LANs, Internetworks, MANs, WANs
 - LAN (Local Area Network) - A network that connects computers in a limited geographical area
@@ -84,14 +84,14 @@
     - Two or more groups of users need to share resources
     - Number of users and/or resources is too large for a single LAN
     - The distance between two groups of computer 
-![Alt text](../Images/6.png)
-![Alt text](../Images/7.png)
+![img](https://i.imgur.com/Gw6hSRx.png)
+![img](https://i.imgur.com/pJd6Ize.png)
 
 - Wide Area Network (WAN) - A network that connects computers over a large geographical area
 - Metropolitan area network (MAN) - A network that connects computers in a metropolitan area
 - Campus Area Network (CAN) - A network that connects computers in a limited geographical area, such as a college campus
 
-![Alt text](../Images/8.png)
+![img](https://i.imgur.com/SWmefCT.png)
 
 # Internet, Intranet, Extranet
 
@@ -222,7 +222,7 @@
 |Network Security|No centralized security|Centralized security|
 |Network Expansion|Limited to 10 computers|Can have thousands of computers|
 
-![Alt text](../Images/9.png)
+![img](https://i.imgur.com/dGgOkZT.png)
 
 # Summary
 This document provides an in-depth exploration of network communication fundamentals. It starts with an explanation of the necessary hardware components for creating a networked computer, including the Network Interface Card (NIC), Network Media, Network Operating System (NOS), and Interconnection Devices.
