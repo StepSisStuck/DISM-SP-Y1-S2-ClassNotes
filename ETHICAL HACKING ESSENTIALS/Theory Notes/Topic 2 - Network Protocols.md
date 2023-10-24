@@ -1,6 +1,26 @@
 # Topic 2 - Network Protocols
 
 # Table of Contents
+- [Topic 2 - Network Protocols](#topic-2---network-protocols)
+- [Table of Contents](#table-of-contents)
+- [List to learn in this topic](#list-to-learn-in-this-topic)
+- [Kali Linux](#kali-linux)
+- [Wireshark](#wireshark)
+  - [With Wireshark, you can:](#with-wireshark-you-can)
+- [Hypertext Transfer Protocol (HTTP and HTTPS)](#hypertext-transfer-protocol-http-and-https)
+  - [HTTP GET with Wireshark](#http-get-with-wireshark)
+- [HTTP Methods](#http-methods)
+- [NETSTAT](#netstat)
+- [Comparing Different Protocols for Remote Login](#comparing-different-protocols-for-remote-login)
+- [File Transfer Protocol (FTP)](#file-transfer-protocol-ftp)
+- [WinSCP](#winscp)
+- [Telnet](#telnet)
+- [Secure Shell (SSH), Secure Copy (SCP) and Secure File Transfer Protocol (SFTP), PuTTY](#secure-shell-ssh-secure-copy-scp-and-secure-file-transfer-protocol-sftp-putty)
+  - [PuTTY](#putty)
+- [Remote Desktop Protocol (RDP) for Remote Login](#remote-desktop-protocol-rdp-for-remote-login)
+  - [Remote Desktop Services Example](#remote-desktop-services-example)
+  - [Micosoft Remote Desktop](#micosoft-remote-desktop)
+- [Summary](#summary)
 
 --------------------
 # List to learn in this topic
