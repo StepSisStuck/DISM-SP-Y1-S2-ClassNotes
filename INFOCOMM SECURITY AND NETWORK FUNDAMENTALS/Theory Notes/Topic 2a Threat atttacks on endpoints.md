@@ -1,6 +1,37 @@
 # Topic 2a Threat attacks on endpoints
 
 # Table of Contents
+- [Topic 2a Threat attacks on endpoints](#topic-2a-threat-attacks-on-endpoints)
+- [Table of Contents](#table-of-contents)
+- [Different type of attacks on endpoints](#different-type-of-attacks-on-endpoints)
+- [Evolution of malware](#evolution-of-malware)
+- [Imprisonment malware](#imprisonment-malware)
+  - [Ransomeware](#ransomeware)
+  - [Cryptomalware](#cryptomalware)
+- [Launch malware](#launch-malware)
+  - [Fileless virus](#fileless-virus)
+  - [Worm](#worm)
+  - [Bot](#bot)
+- [Snoop](#snoop)
+  - [Spyware](#spyware)
+  - [Keylogger](#keylogger)
+- [Deceive malware](#deceive-malware)
+- [Evade malware](#evade-malware)
+  - [Backdoor](#backdoor)
+  - [Logic bomb](#logic-bomb)
+  - [Rootkit](#rootkit)
+- [Symptoms of malware infection](#symptoms-of-malware-infection)
+- [Application Attacks](#application-attacks)
+- [Script](#script)
+- [Injection](#injection)
+- [Request Forgery](#request-forgery)
+  - [Server-side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
+- [Attacks on Software](#attacks-on-software)
+  - [Memory Vulnerabilities](#memory-vulnerabilities)
+  - [Improper Exception Handling](#improper-exception-handling)
+  - [Attacks on External Software Components](#attacks-on-external-software-components)
+- [What are Artificial Intelligence (AI) and Machine Learning (ML)?](#what-are-artificial-intelligence-ai-and-machine-learning-ml)
+  - [Uses in Cybersecurity](#uses-in-cybersecurity)
 
 
 ----------------------------------------
@@ -137,11 +168,19 @@
 - Evade malware is designed to evade detection by antivirus software.
 - Example includes rootkit, logic bomb, and bootkit.
   
-# Backdoor Evade
+## Backdoor 
 - A backdoor is a method of bypassing normal authentication procedures.
 - Logic bomb is a piece of code intentionally inserted into a software system that will set off a malicious function when specified conditions are met.
 - Rootkit is a collection of computer software, typically malicious, designed to enable access to a computer or an area of its software that is not otherwise allowed (for example, to an unauthorized user) and often masks its existence or the existence of other software.
 - Bootkit is a type of rootkit that infects the master boot record (MBR).
+
+## Logic bomb
+- A logic bomb is a piece of code intentionally inserted into a software system that will set off a malicious function when specified conditions are met.
+- For example, a programmer may hide a piece of code that starts deleting files (such as a salary database trigger), should they ever be terminated from the company.
+
+## Rootkit
+- A rootkit is a malware that can hide its presence and activities in an infected system.
+- It dows this by accessing the kernel of the operating system.
 
 ----------------------------------------
 # Symptoms of malware infection
@@ -288,5 +327,119 @@
 - Unusual system jitter clusters
 
 These symptoms may not always indicate a malware infection, but they are worth investigating if you suspect that your system has been compromised.
+
+----------------------------------------
+
+
+
+
+
+# Application Attacks
+
+- Another category of attacks look for vulnerabilities in applications.
+    - Common Targets of attackers using application attacks are Internet web servers and web browsers.
+
+- Web servers are often targeted because they are accessible from the Internet and they are often not patched or updated regularly.
+
+# Script
+- In a cross-site scripting (XSS) attack, the attacker injects malicious code into a web application.
+- An attacker can use XSS to send a malicious script to an unsuspecting user.
+
+- The end user's browser has no way to know that the script should not be trusted, and will execute the script.
+
+# Injection
+- An injection attack is a type of attack that involves injecting code into a vulnerable web application.
+
+- One of the most common types of injection attacks is a Structured Query Language (SQL) injection attack.
+- An attacker can use a SQL injection attack to bypass authentication or to retrieve data from a database.
+
+- SQL injection target SQL databases by introducing malicious code into database queries.
+- By entering crafted SQL statement as user input, an attacker can execute malicious SQL statements, and they can be extracted or the existing data can be modified.
+
+# Request Forgery
+- Request Forgery is a type of attack that involves creating and submitting unauthorized requests to a vulnerable web application.
+- There are 2 type of Request Forgery:
+    - Cross-site request forgery (CSRF)
+    - Server-side request forgery (SSRF)
+
+- Cross-site Request Forgery (CSRF) is a type of attack that involves creating and submitting unauthorized requests to a vulnerable web application.
+   - CSRF takes advantage of the trust that a web application has for a user's browser.
+   - If a user is logged into a web application, the web application will trust any request that is sent from the user's browser.
+
+![img](https://i.imgur.com/7F9OwTS.png)
+
+
+  ## Server-side Request Forgery (SSRF)
+  - An SSRF takes advantage of the trust that a web application has for a server.
+  - SSRF attacks exploit the trust that a web application has for a server.
+  - If a web application trusts a server, it will trust any request that is sent to that server.
+  - An attacker can use an SSRF attack to send requests to internal servers that are not accessible from the Internet.
+
+|Attack Name| Attack Target| Purpose of Attack|
+|---|---|---|
+|CSRF(Cross-site Request Forgery)|User's browser|To send unauthorized requests to a vulnerable web application|
+|SSRF(Server-side Request Forgery)|Server|To send unauthorized requests to internal servers that are not accessible from the Internet|
+
+# Attacks on Software
+- Other attacks are directly targeted at software that focusd on exploiting vulnerabilities in software.
+- These include:
+   - Exploit Memory Vulnerabilities
+   - Improper Exception Handling
+   - External Software Component
+
+## Memory Vulnerabilities
+- Memory vulnerabilities are vulnerabilities that allow an attacker to access memory that they should not be able to access.
+- Some memory-related attacks are called resource exhaustion attacks because they exhaust the resources of a system thus interfering with the normal operation of the system in programs like RAM, CPU, and disk space.
+
+- Other memory-related attacks are called buffer overflow attacks because they overflow the buffer of a system.
+- A buffer overflow attack occurs when a program tries to store more data in a buffer than it was intended to hold.
+
+- In an interger overflow attack, an attacker can use an integer overflow to wrap a variable to a smaller value.
+## Improper Exception Handling
+- Some attacks are the result of poor coding on the part of the developer.
+- Improper exception handling occurs when a developer does not properly handle exceptions.
+- An exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions.
+
+- An exception can be caused by a variety of factors, including:
+    - Invalid input
+    - Invalid output
+    - Invalid code
+    - Invalid operation
+    - Invalid data
+    - Invalid instruction
+    - Invalid memory access
+    - Invalid memory address
+    - Invalid memory allocation
+    - Invalid memory deallocation
+    - Invalid memory reference
+    - Invalid memory write
+    - Invalid memory read
+    - Invalid memory write
+    - Invalid memory read
+    - Invalid memory write
+    - Invalid
+
+## Attacks on External Software Components
+- Some attacks are the result of vulnerabilities in external software components.
+- These include:
+    - Driver Vulnerabilities
+    - Virtualization Vulnerabilities
+    - Cloud Vulnerabilities
+    - Mobile Vulnerabilities
+    - IoT Vulnerabilities
+    - API Vulnerabilities
+    - Dynamic Link Library (DLL) Vulnerabilities
+# What are Artificial Intelligence (AI) and Machine Learning (ML)?
+- Artificial Intelligence (AI) is the ability of a computer system to perform tasks that normally require human intelligence.
+- A recongnized of AI is Machine Learning (ML).
+    - Machine Learning (ML) is the ability of a computer system to learn and improve from experience without being explicitly programmed.
+- ML also involves the use of algorithms that can learn from and make predictions on data.
+   - If something attempted does not work, then it determines what went wrong and tries again.
+
+## Uses in Cybersecurity
+- AI and ML are used in cybersecurity to detect and prevent cyber attacks.
+- AI and ML are used to detect and prevent cyber attacks.
+- Email security products use AI and ML to detect and prevent phishing attacks.
+- AI and ML is an advantage to conbat cyber attacks because it can detect and prevent attacks that have never been seen before.
 
 
