@@ -2,6 +2,18 @@
 
 # Table of Contents
 
+- [Topic 2b - Security Systems](#topic-2b---security-systems)
+- [Table of Contents](#table-of-contents)
+- [Threat Intelligence](#threat-intelligence)
+- [Categories of Threat Intelligence](#categories-of-threat-intelligence)
+- [Confirm Boot Intergrity](#confirm-boot-intergrity)
+- [Protecting Endpoints](#protecting-endpoints)
+- [Monitoring and Response Systems](#monitoring-and-response-systems)
+- [Hardern Endpoints](#hardern-endpoints)
+  - [Operating Systems](#operating-systems)
+- [Monitoring and Response Systems](#monitoring-and-response-systems-1)
+- [Hardern Endpoints](#hardern-endpoints-1)
+  - [Operating Systems](#operating-systems-1)
 
 -------------------------
 
@@ -101,4 +113,95 @@ Antivirus Software
     - Private browsing mode prevents the browser from storing information about the websites that the user visits.
        - This includes cookies, temporary internet files, and browsing history.
 
+ Credits : [Itzkvth-Tan](https://github.com/Itzkvth-Tan)
+# Monitoring and Response Systems
+There are three types of monitoring and response systems for endpoint computers:
+1)Host Intrusion Detection Systems (HIDS) is a software-based applications that runs on an endpoint computer and can detect if there is an attack occured.
+ 
+2)Host Instrusion Prevention Systems (HIPS) monitor endpoint to immediately block malicious attack by following specific rules.
+ 
+3)Endpoint Detection and Response (EDR) tools are considered more powerful than (HIDS and HIPS)
+-An EDR can aggregate data from multiple endpoint computers to a centralized database
+-EDR tools can perform more advance analytics that identify patterns and detect anomalies.
+ 
+ 
+ 
+ 
+ 
+# Hardern Endpoints
+*Hardening endpoints involves patch management and OS protections*
+*Patch Management*
+ 
+Effective patch management involves two types of patch management tools to administer patches
+*Patch distribution using an automated patch update service.
+*Patch reception in Windows 10 includes
+- Forced Updates
+- No Selective Updates
+- More efficient distribution
+ 
+ 
 
+## Operating Systems
+ 
+Securing an OS involves proper security configuration and confinement tools
+A typical OS security configuration should include
+-Disabling unnecessary ports and services
+-Disabling default accounts/passwords
+-Employinng least functionality
+Windows 10 Tamper protection security feature prevents Windows security settings from being changed or disabled by a threat actor who modifies the registry
+-A Group Policy setting can prevent access to registry editing tools
+ 
+Confinement Tools - tools used to restrict malware
+-Application whitelisting/blacklisting
+-Sandbox
+-Quarantine
+
+
+
+ 
+ Credits : [Itzkvth-Tan](https://github.com/Itzkvth-Tan)
+# Monitoring and Response Systems
+There are three types of monitoring and response systems for endpoint computers:
+1)Host Intrusion Detection Systems (HIDS) is a software-based applications that runs on an endpoint computer and can detect if there is an attack occured.
+ 
+2)Host Instrusion Prevention Systems (HIPS) monitor endpoint to immediately block malicious attack by following specific rules.
+ 
+3)Endpoint Detection and Response (EDR) tools are considered more powerful than (HIDS and HIPS)
+-An EDR can aggregate data from multiple endpoint computers to a centralized database
+-EDR tools can perform more advance analytics that identify patterns and detect anomalies.
+ 
+ 
+ 
+ 
+ 
+# Hardern Endpoints
+*Hardening endpoints involves patch management and OS protections*
+*Patch Management*
+ 
+Effective patch management involves two types of patch management tools to administer patches
+*Patch distribution using an automated patch update service.
+*Patch reception in Windows 10 includes
+- Forced Updates
+- No Selective Updates
+- More efficient distribution
+ 
+ 
+
+## Operating Systems
+ 
+Securing an OS involves proper security configuration and confinement tools
+A typical OS security configuration should include
+-Disabling unnecessary ports and services
+-Disabling default accounts/passwords
+-Employinng least functionality
+Windows 10 Tamper protection security feature prevents Windows security settings from being changed or disabled by a threat actor who modifies the registry
+-A Group Policy setting can prevent access to registry editing tools
+ 
+Confinement Tools - tools used to restrict malware
+-Application whitelisting/blacklisting
+-Sandbox
+-Quarantine
+
+
+
+ 
