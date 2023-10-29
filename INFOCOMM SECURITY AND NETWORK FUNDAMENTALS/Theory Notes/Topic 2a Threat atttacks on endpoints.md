@@ -32,6 +32,7 @@
   - [Attacks on External Software Components](#attacks-on-external-software-components)
 - [What are Artificial Intelligence (AI) and Machine Learning (ML)?](#what-are-artificial-intelligence-ai-and-machine-learning-ml)
   - [Uses in Cybersecurity](#uses-in-cybersecurity)
+- [Summary](#summary)
 
 
 ----------------------------------------
@@ -443,3 +444,9 @@ These symptoms may not always indicate a malware infection, but they are worth i
 - AI and ML is an advantage to conbat cyber attacks because it can detect and prevent attacks that have never been seen before.
 
 
+# Summary
+ Topic 2a Threat Attacks on Endpoints discusses the importance of securing an operating system through proper security configuration and confinement tools. The document highlights the typical security configuration of an OS, which includes disabling unnecessary ports and services, disabling default accounts/passwords, and employing least functionality. 
+
+The document also mentions the Tamper Protection security feature in Windows 10, which prevents Windows security settings from being changed or disabled by a threat actor who modifies the registry. Additionally, a Group Policy setting can prevent access to registry editing tools.
+
+Finally, the document discusses confinement tools, which are used to restrict malware. These tools include application whitelisting/blacklisting, sandbox, and quarantine.
