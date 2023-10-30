@@ -27,6 +27,8 @@
 - [PassMark Software ImageUSB](#passmark-software-imageusb)
 - [Runtime Software](#runtime-software)
 - [SourceForge](#sourceforge)
+- [Carved File](#carved-file)
+- [Parsed File](#parsed-file)
 - [Summary](#summary)
 
 
@@ -355,6 +357,20 @@ platform for free and open source software (FOSS) projects
 - For a list of current tools, see:
     - http://sourceforge.net/directory/securityutilities/storage/archiving/os:windows/freshness:recentlyupdated
 
+
+# Carved File
+- A Carved file is a file that is stored in a non-contiguous manner on a hard drive
+- Fine Carved involves searching for the next available space on a hard drive and storing the file in that space
+- Carved files are often recovered from unallocated space where the file system information has been lost
+
+To sum up, file carving techniques can be used to recover deleted files that are still present in unallocated space on a hard drive. When a file is deleted, its file system information is removed, but the actual data may still be present in unallocated space until it is overwritten by new data. File carving tools can search for and extract these deleted files from unallocated space, even if they are fragmented and stored in a non-contiguous manner.
+
+# Parsed File
+
+- A Parsed file is a file that is stored in a contiguous manner on a hard drive
+- Parsed files are often recovered from allocated space where the file system information is still present
+
+Parsed File is a file that is stored in a contiguous manner on a hard drive and is often recovered from allocated space where the file system information is still present.
 
 # Summary
 This document is about data acquisition in digital forensics. It covers the different storage formats for digital evidence, including raw format, proprietary format, and advanced forensic format (AFF). It also discusses the different methods of data collection, such as disk-to-image file, disk-to-disk, disk-to-removable media, disk-to-network, logical acquisition, and spare drive acquisition. The document also covers contingency planning for image acquisition, using acquisition tools, validating data acquisition, and using remote network acquisition tools. It also mentions some commercial acquisition tools, such as ProDiscover, EnCase, FTK, X-Ways Forensics, SMART, ILookIX, Sleuth Kit, Magnet Forensics, PassMark OSForensics, Paraben P2 Commander, and Magnet Axion. Finally, it provides information on some free tools, such as ImageUSB and Runtime Software, and a list of security, analysis, and investigation tools available on SourceForge.
