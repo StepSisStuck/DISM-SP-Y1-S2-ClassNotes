@@ -13,7 +13,7 @@
 - [Enumeration](#enumeration)
 - [Port Scanning is part of enumeration](#port-scanning-is-part-of-enumeration)
 - [NetBIOS Enumeration Tools](#netbios-enumeration-tools)
-  - [Additionak Enumeration Tools](#additionak-enumeration-tools)
+  - [Additional Enumeration Tools](#additional-enumeration-tools)
 - [Hyena](#hyena)
 - [Nessus](#nessus)
 - [Open Vulnerability Assessment System (OpenVAS)](#open-vulnerability-assessment-system-openvas)
@@ -202,7 +202,7 @@ NET USE [/PERSISTENT:{YES | NO}]
 C:\Users\user>_
 ```
 
-## Additionak Enumeration Tools
+## Additional Enumeration Tools
 - Nessus 
 - DumpSec
 - NetScanTools Pro
