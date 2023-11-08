@@ -1,6 +1,24 @@
 # Topic 4 - Network Enumeration (Footprint)
 
 # Table of Contents
+- [Topic 4 - Network Enumeration (Footprint)](#topic-4---network-enumeration-footprint)
+- [Table of Contents](#table-of-contents)
+- [What is Network Enumeration (Footprint)?](#what-is-network-enumeration-footprint)
+- [Stages of Penetration Testing](#stages-of-penetration-testing)
+  - [OVERVIEW OF INFORMATION GATHERING](#overview-of-information-gathering)
+  - [INFORMATION GATHERING](#information-gathering)
+- [What is Footprinting?](#what-is-footprinting)
+- [Advanced Web Search Techniques](#advanced-web-search-techniques)
+- [Whois](#whois)
+  - [Example of a Whois Output](#example-of-a-whois-output)
+- [Using Email](#using-email)
+- [Analyzing a Company Web Site](#analyzing-a-company-web-site)
+- [Finding information about connnected devices](#finding-information-about-connnected-devices)
+- [Using Domain Name Service (DNS)](#using-domain-name-service-dns)
+  - [Dertermine company's primary DNS server](#dertermine-companys-primary-dns-server)
+- [Other DNS whois tools](#other-dns-whois-tools)
+- [Traceroute](#traceroute)
+  - [Are port scanning legal?](#are-port-scanning-legal)
 
 
 
