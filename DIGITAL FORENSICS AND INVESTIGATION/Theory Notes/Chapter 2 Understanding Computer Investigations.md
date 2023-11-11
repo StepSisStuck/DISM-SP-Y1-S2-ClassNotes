@@ -3,6 +3,7 @@
 # Table of Contents
 - [Chapter 2 Understanding Computer Investigations](#chapter-2-understanding-computer-investigations)
 - [Table of Contents](#table-of-contents)
+  - [.2](#2)
 - [Objectives](#objectives)
 - [Taking a Systematic Approach](#taking-a-systematic-approach)
 - [Assessing the case](#assessing-the-case)
@@ -23,7 +24,6 @@
 - [Completing the case](#completing-the-case)
 - [Critiquing the Case](#critiquing-the-case)
 - [Summary](#summary)
-
 ----------
 
 # Objectives
