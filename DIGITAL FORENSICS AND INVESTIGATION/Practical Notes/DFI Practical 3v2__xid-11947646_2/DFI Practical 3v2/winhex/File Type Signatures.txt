@@ -1,0 +1,80 @@
+File Type	Extensions	Header	Offset	Footer	Default in KB
+JPEG	jpg;jpeg	0xFFD8FF	0		
+PNG	png	0x89504E470D0A1A0A	0	0x49454E44AE426082	
+GIF	gif	GIF8	0		
+TIFF	tif;tiff	0x49492A00	0		
+TIFF	tif;tiff	0x4D4D002A	0		
+Bitmap	bmp	BM	0		
+AOL ART	art	0x4A47040E000000	0		
+AOL ART	art	0x4A47030E000000	0		
+PC Paintbrush	pcx	0x0A050108	0		
+Paint Shop Pro	psp	0x5061696E74205368	0		
+Paint Shop Pro	psp	0x7E424B00	0		
+Adobe Photoshop	psd	0x3842505300010000	0		
+Graphics Metafile	wmf	0xD7CDC69A	0		
+Graphics Metafile	wmf	0x01000900	0		
+Graphics Metafile	wmf	0x02000900	0		
+Enhanced Metafile	emf	0x0100000058000000	0
+Corel Photopaint	cpt	CPTFILE	0
+Corel Draw	cdr	CDR	8
+CAD	dwg	0x41433130	0
+Rich Text Format	rtf	{\rtf	0
+XML	xml	<?xml	0
+HTML	html;htm;php;php3;php4;phtml;shtml	<html>	0
+HTML	html;htm;php;php3;php4;phtml;shtml	<HTML>	0
+HTML	html;htm;php;php3;php4;phtml;shtml	<!doctype	0
+Email [byte level!]	eml	Delivery-date:	
+Outlook Express	dbx	0xCFAD12FE	0
+Outlook	pst	!BDN	0
+MS Office/OLE2	doc;xls;dot;ppt;xla;ppa;pps;pot;msi;sdw;db	0xD0CF11E0A1B11AE1	0
+MS Access	mdb;mda;mde;mdt;fdb	Standard J	4
+MS Money	mny	0x000100004D534953	0
+WordPerfect	wpd	0xFF575043	0
+OpenOffice Writer	sxw	writer	62
+OpenOffice Calc	sxc	calc	62
+OpenOffice Math	sxm	math	62
+OpenOffice Impress	sxi	impress	62
+OpenOffice Draw	sxd	draw	62
+PostScript/Adobe	eps.or.ps;ps;eps;ai	%!PS-Adobe	0
+Adobe FrameMaker	fm	<MakerFile	0
+Adobe Acrobat	pdf	%PDF-1.	0
+Quicken	qdf	0xAC9EBD8F	0
+Quicken	qsd	QW Ver. 	0
+QuickBooks Backup	qbb	0x458600000600	0
+Sage	sly.or.srt.or.slt;sly;srt;slt	0x53520100	0
+Lotus WordPro v9	lwp	0x576F726450726F	0
+Lotus Ami Pro	AMI	0x5B7665725D	0
+Lotus 123 v9	123	0x00001A00051004	0
+Lotus 123 v5	wk4	0x00001A0002100400	0
+Lotus 123 v3	wk3	0x00001A0000100400	0		
+Lotus 123 v1	wk1	0x2000604060	0		
+Lotus Notes	nsf;ntf	0x1A0000030000	0		
+Windows Password	pwl	0xE3828596	0		
+Windows Registry	registry	regf	3		
+ZIP Archive	zip;jar	0x504B0304	0		
+ZIP Archive (outdated)	zip	0x504B3030	0		
+Jar Archive	jar	0x5F27A889	0		
+RAR Archive	rar	Rar!	0		
+GZ Archive	gz;tgz	0x1F8B08	0		
+BZIP Archive	bz2	BZh	0		
+ARJ Archive	arj	0x60EA	0		
+7-ZIP Archive	7z	7z¼¯'	0		
+ZOO Compressed	zoo	0x5A4F4F20	0		
+Redhat Linux Archive	rpm	0xEDABEEDB	0		
+Wave	wav	WAVE	8		
+AVI	avi	AVI 	8		10000
+Real Audio	ram;ra	.raý	0		
+Real Media	rm	.RMF	0		10000
+MPEG	mpg;mpeg	0x000001BA	0		10000
+MPEG	mpg;mpeg	0x000001B3	0		10000
+Quicktime Movie	mov	moov	4		10000
+Windows Media	asf	0x3026B2758E66CF11	0		10000
+MIDI	mid	MThd	0		250
+Compiled HTML	chm	0x4954534603000000	0		
+Windows Help	hlp	0x3F5F0300	0		
+Windows Help	hlp	0x4C4E0200	0		
+Win32 Exec.	exe;dll;drv;vxd;sys;ocx;vbx	MZ	0		
+Win16 Exec.	exe;dll;drv;vxd;sys;ocx;vbx	MZ	0		
+ELF Executable	elf;;	0x7F454C4601010100	0		
+Shell Script	sh;pl;cgi	#!/usr/bin/	0		
+Shell Script	sh;pl;cgi	#!/bin/	0		
