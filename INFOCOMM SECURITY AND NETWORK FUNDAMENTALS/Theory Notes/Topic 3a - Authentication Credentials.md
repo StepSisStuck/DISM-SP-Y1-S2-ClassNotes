@@ -152,7 +152,7 @@
 - They uses a person physical characteristics authentication
 - Serveral unique characters of a person's body can be used for authentication
   
-### Specialized Biometric Devices
+## Specialized Biometric Devices
 - A fingerprint reader is a biometric device that uses a person’s fingerprint to authenticate
 - A retinal scanner is a biometric device that uses a person’s retina to authenticate
   - It maps the unique patterns of a person’s retina
@@ -162,4 +162,77 @@
   - Static fingerprint reader - It takes a picture of a fingerprint
   - Dynamic fingerprint reader - It scans a fingerprint as it is swiped across the reader
 
+![img](https://i.imgur.com/shC1WEP.png)
 
+### Biometric Disadvantages
+- Biometric authentication is not perfect
+- The cost of biometric devices is high
+- Readers have some amount error
+  - The false acceptance rate (FAR) is the percentage of times that the biometric device incorrectly accepts an access attempt by an unauthorized user
+  - The false rejection rate (FRR) is the percentage of times that the biometric device incorrectly rejects an access attempt by an authorized user
+
+- Biometric devices can be fooled
+- A concern with biometrics is the efficacy rate
+  - Efficacy may be defined as the benefit of a product or service
+  - Critics question the sacrifice of privacy for the benefit of security
+
+
+## Cogiitive Biometrics
+- Cognitive biometrics relates to perception, thought, learning, and memory (understanding the mind)
+- It is considered easier for the user to remember because it is based on the user's life experiences 
+  - For example "What was the name of your first pet?"
+  - For example "What was the name of your first school?"
+
+- Congnitive biometrics is also called knowledge-based authentication (KBA)
+
+- Picture Password was introduced by Microsoft for Windows 10 touch-enabled decives
+  - It is a combination of a picture and a gesture
+  - User can select a pictre tp ise fpr which there should be 10 points of contact that can be served as landmarks or places to touch
+    - But in reality, this feature is not very secure and it feels like a gimmick
+
+## Behavioral Biometrics
+- Behavioral biometrics is based on a person’s behavior
+- A type of behavioual biometrics is keystroke dynamics
+  - Attempts to recognize user typing patterns
+
+- Keystroke dynamics is a type of behavioral biometrics
+  - Dwelling time is the length of time a key is pressed
+  - Flight time is the length of time between key presses
+
+- Keystroke dynamics holds a great amount of potential for authentication as it requires no additional hardware
+
+# Authentication Solutions
+- Service providers offer authentication solutions
+- Authentication solutions are available from service providers
+
+# Password Security
+- Protecting Password Digest
+  - One method of protecting password digests is to use a salt, which consists of random bits added to the password before creating the hash
+  - Passwords can be protected by adding a rando mstring to the user's cleartext password befre it is hashed
+  - Salts make dictionary attacks more difficult and brute force attacks more time consuming and limit the impact of rainbow table attacks
+
+- Another method is to use key stretching 
+  - Key stretching is a technique that makes a password hash more secure by adding a random value to the password before hashing it
+  - The two most common key stretching algorithms are PBKDF2 and bcrypt
+
+### Managing Passwords
+- The most critical factor in a strong password is length
+- The longer a password is, the more attempts an attacker must make to guess it
+- Due to the limitation of a human memory,security experts universally recommend using a password manager
+- Techniques for managing passwords include:
+  - Password reuse
+  - Password manager
+  - Password vault
+  - Password synchronization
+  - Password reset
+  - Password recovery
+
+- A password **vault** is a secure storage location for passwords (Also known as a password manager)
+- Three basic types of password  vaults:
+  - Password generators 
+  - Online password vaults
+  - Password management applications
+
+- Password keys are more secure hardware-based password vaults to store a password
+- A hardware security module (HSM) is a physical computing device that safeguards and manages digital keys for strong authentication and provides cryptoprocessing
+   - A HSM can also perform encription and decryption

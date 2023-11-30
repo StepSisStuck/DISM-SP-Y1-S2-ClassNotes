@@ -202,6 +202,6 @@ Confinement Tools - tools used to restrict malware
 -Sandbox
 -Quarantine
 
-
+![img](https://i.imgur.com/X8aZbtS.png)
 
  
