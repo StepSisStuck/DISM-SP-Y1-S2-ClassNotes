@@ -235,4 +235,64 @@
 
 - Password keys are more secure hardware-based password vaults to store a password
 - A hardware security module (HSM) is a physical computing device that safeguards and manages digital keys for strong authentication and provides cryptoprocessing
-   - A HSM can also perform encription and decryption
+   - A HSM can also perform encription and decryption for digital signatures, authentication, and other cryptographic functions for backup sensitive data, such as digital certificates, encryption keys, and passwords
+
+![img](https://i.imgur.com/16TvaIh.png)
+
+- Passkeys are more secure hardware-based password vaults to store a password 
+
+### Single Sign-On (SSO)
+- Single sign-on (SSO) is a session and user authentication service that permits a user to use one set of login credentials (e.g., name and password) to access multiple applications
+- Identity and access management (IAM) is a framework of policies and technologies for ensuring that the proper people in an enterprise have the appropriate access to technology resources
+- It is called federated (sometimes its called federated identity management or FIM) when networks are owned by different entities
+- Single sign-on (SSO) is a session and user authentication service that permits a user to use one set of login credentials (e.g., name and password) to access multiple applications
+
+### Authentication Services
+- Different types of authentication services include:
+  - Kerberos (Microsoft Active Directory)
+  - RADIUS (Remote Authentication Dial-In User Service)
+  - TACACS+ (Terminal Access Controller Access Control System Plus)
+  - LDAP (Lightweight Directory Access Protocol)
+  - SAML (Security Assertion Markup Language) 
+
+
+### RADUIS
+
+
+- RADIUS was initially designed for remote dial-in access to a corporate network.
+- A RADIUS client, such as a wireless access point (AP), is responsible for sending user credentials and connection parameters to the RADIUS server.
+- RADIUS user profiles are stored in a central database that can be shared among all remote servers.
+- The use of a central RADIUS service offers several advantages, including increased security due to a single administered network point and easier tracking of usage for billing and network statistics.
+
+
+![img](https://i.imgur.com/EFtvkHp.png)
+
+### Kerberos
+
+- Kerberos is an authentication system developed at MIT.
+- It utilizes encryption and authentication mechanisms to ensure security.
+- The analogy of using a driver's license to cash a check is used to explain how Kerberos works.
+- Kerberos tickets have characteristics that make them difficult to copy, contain user-specific information, list restrictions, and have an expiration date.
+- Kerberos is commonly used when a user wants to access a network service that requires authentication.
+
+
+### TACACS (Terminal Access Controller Access Control System)
+ is a remote authentication protocol that provides centralized access control for network devices. Here's some information about TACACS:
+
+- TACACS was initially developed by Cisco Systems and is now an industry-standard protocol.
+- It separates authentication, authorization, and accounting (AAA) functions into separate processes.
+- TACACS uses a client-server model, where the client device (such as a network switch or router) sends authentication requests to the TACACS server for verification.
+- The TACACS server is responsible for authenticating the user's credentials, authorizing their access to specific resources, and logging accounting information.
+- TACACS supports various authentication methods, including password-based authentication and token-based authentication.
+- It provides granular control over user access rights and privileges, allowing administrators to define specific policies and restrictions.
+- TACACS can be used to manage access to network devices, control administrative privileges, and track user activity for auditing purposes.
+
+### Directory Services
+- A directory service is a network service that stores, organizes, and provides access to information in a directory.
+- Directory service make it easier to grant privileges to users, devices, and applications.
+### SAML (Security Assertion Markup Language)
+ is an XML-based open standard data format for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider.
+ - SAML allows user's login credentials to be shared between multiple web application instead of being stored on each application's database.
+ - SAML is used extensively in cloud computing applications for example Business-to-Business (B2B) and Business-to-Customer (B2C) applications.
+
+
