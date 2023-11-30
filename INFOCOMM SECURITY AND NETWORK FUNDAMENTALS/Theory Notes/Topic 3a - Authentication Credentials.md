@@ -2,6 +2,33 @@
 
 
 # Table of Contents
+- [Topic 3 - Authentication Credentials](#topic-3---authentication-credentials)
+- [Table of Contents](#table-of-contents)
+- [Types of Authentication Credentials](#types-of-authentication-credentials)
+  - [Something you know: Passwords](#something-you-know-passwords)
+    - [Attacks on Passwords](#attacks-on-passwords)
+    - [Password Spraying](#password-spraying)
+    - [Rule Attack](#rule-attack)
+    - [Dictionary Attack](#dictionary-attack)
+    - [Password Collections](#password-collections)
+  - [Smartphone and Security Tokens](#smartphone-and-security-tokens)
+    - [Specialized Security Tokens](#specialized-security-tokens)
+  - [Biometrics](#biometrics)
+    - [Physiological Biomertics](#physiological-biomertics)
+  - [Specialized Biometric Devices](#specialized-biometric-devices)
+    - [Biometric Disadvantages](#biometric-disadvantages)
+  - [Cogiitive Biometrics](#cogiitive-biometrics)
+  - [Behavioral Biometrics](#behavioral-biometrics)
+- [Authentication Solutions](#authentication-solutions)
+- [Password Security](#password-security)
+    - [Managing Passwords](#managing-passwords)
+    - [Single Sign-On (SSO)](#single-sign-on-sso)
+    - [Authentication Services](#authentication-services)
+    - [RADUIS](#raduis)
+    - [Kerberos](#kerberos)
+    - [TACACS (Terminal Access Controller Access Control System)](#tacacs-terminal-access-controller-access-control-system)
+    - [Directory Services](#directory-services)
+    - [SAML (Security Assertion Markup Language)](#saml-security-assertion-markup-language)
 
 -----------------
 
