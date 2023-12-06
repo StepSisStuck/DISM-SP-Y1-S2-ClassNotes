@@ -403,7 +403,53 @@ nameserver 192.168.10.131
 ```
 
 
+# Kernal Parameters
+Linux Kernal parameters can be used to change some core resources of the system. 
+
+1. Login to the server as root
+2. Type the following command
+```bash
+sysctl -a
+```
+This command is to show all the current kernal parameters of the system
+
+3. Type the following command
+```bash
+sysctl -a | grep icmp
+```
+This command is to show all the current kernal parameters of the system that contains the word icmp
+
+3. Type the following command
+```bash
+sysctl -w net.ipv4.icmp_echo_ignore_all=1
+```
+This command is to change the kernal parameter of the system
 
 
+# Preventive Login
+1. Login to the client as student
+2. Type the following command
+```bash
+sudo -i
+```
+They will say that you are not in the sudoers file, this incident will be reported
 
+3. Type the following command
+```bash
+su -
+```
 
+4. Edit the sudoers file
+```bash
+nano /etc/sudoers
+```
+5. Add the following line to the file
+```bash
+student ALL=(ALL) ALL
+```
+6. Save the file and exit
+7. Now you should be able to login as student and use the sudo command
+```bash
+sudo -i
+```
+8. That's it, you have successfully added the student to the sudoers file!
