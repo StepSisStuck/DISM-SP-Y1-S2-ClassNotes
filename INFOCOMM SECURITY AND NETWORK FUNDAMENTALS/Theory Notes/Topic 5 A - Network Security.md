@@ -115,11 +115,21 @@ Layer | Name | Description
 
 
 
+### DNS Hijacking
+- DNS hijacking is a technique that redirects a user to a malicious website.
+- DNS hijacking is intended to infect an external DNS server with IP address that point to malicious websites.
+- DNS hijacking has an advantage of redirecting multiple users to a malicious website without having to infect each user's computer.
+- Attackers attempt to exploit a protocol flaw convince the authentic DNS server to accept the malicious IP address.
+- If the DNS server does not correctly validate the IP address, it will accept the malicious IP address and cache it.
+   - This spreads them to other DNS servers that query the authentic DNS server.
+
+![img](https://i.imgur.com/KHNcu45.png)
 
 
-
-
-
-
-
+## Malicious Coding and Scripting Attacks
+- Malicious coding and scripting attacks are attacks that use malicious code to exploit vulnerabilities in software.
+- Some network attacks come from malicious code that is executed on a user's computer.
+- These attacks use PowerShell, JavaScript, and coding languages such as C, C++, and Java.
+- PowerShell is a scripting language that is used to automate administrative tasks, and they are configuation management framework from Microsoft 
+- 
 
