@@ -24,4 +24,12 @@ Table of Contents
 
 - A typical MITM attact have two phases:
   - The first phase is to intercept the communication.
-  - The second phase is to decrypt the communication.
+  - The second phase is to decrypt the communication.'
+
+![img](https://i.imgur.com/lBoWpbf.png)
+
+
+
+
+
+
