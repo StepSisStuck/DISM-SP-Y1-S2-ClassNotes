@@ -2,6 +2,24 @@
 
 # Table of Contents
 
+- [Password Hacking](#password-hacking)
+- [Table of Contents](#table-of-contents)
+- [What is a Password?](#what-is-a-password)
+  - [Why as password must not be written down?](#why-as-password-must-not-be-written-down)
+  - [Password Complexity](#password-complexity)
+- [Example of a good password](#example-of-a-good-password)
+- [Password Cracking](#password-cracking)
+  - [Password Attacks (Brute Force Attacks)](#password-attacks-brute-force-attacks)
+    - [Advantages of Brute Force Attacks](#advantages-of-brute-force-attacks)
+    - [Disadvantages of Brute Force Attacks](#disadvantages-of-brute-force-attacks)
+  - [Dictionary Attacks](#dictionary-attacks)
+  - [Rainbow Table Attacks (Rainbow Cracking) (Which is the most effective and efficient way to crack passwords)](#rainbow-table-attacks-rainbow-cracking-which-is-the-most-effective-and-efficient-way-to-crack-passwords)
+  - [Password Guessing](#password-guessing)
+  - [Default Passwords](#default-passwords)
+- [Password Defenses](#password-defenses)
+  - [Salting](#salting)
+  - [Password Policies](#password-policies)
+- [Linux Password Cracking](#linux-password-cracking)
 
 --- 
 
