@@ -1,3 +1,11 @@
+# Table of Content 
+- [Table of Content](#table-of-content)
+- [Samba Server Configuration](#samba-server-configuration)
+- [Domain Name System (DNS) Server Configuration](#domain-name-system-dns-server-configuration)
+- [System Monitoring and Performance Tools](#system-monitoring-and-performance-tools)
+- [User Authentication \& Pluggable Authentication Modules (PAM)](#user-authentication--pluggable-authentication-modules-pam)
+
+
 # Samba Server Configuration
 
 1. **Samba Server and Client Installation:**
