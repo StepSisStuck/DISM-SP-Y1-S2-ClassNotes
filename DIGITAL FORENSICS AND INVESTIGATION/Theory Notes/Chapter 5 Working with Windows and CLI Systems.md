@@ -1,6 +1,16 @@
 # Chapter 5, working with Windows and CLI systems
 
 # Table of Contents
+- [Chapter 5, working with Windows and CLI systems](#chapter-5-working-with-windows-and-cli-systems)
+- [Table of Contents](#table-of-contents)
+- [Objectives](#objectives)
+- [Understanding the File System](#understanding-the-file-system)
+- [Understanding the Boot Sequence](#understanding-the-boot-sequence)
+  - [BIOS can configure the following:](#bios-can-configure-the-following)
+- [Understanding Disk Drives](#understanding-disk-drives)
+- [Solid-State Drives](#solid-state-drives)
+- [Exploring Microsoft File Structure](#exploring-microsoft-file-structure)
+- [Disk Partitions](#disk-partitions)
 
 # Objectives 
 - Explain the purpose of the Windows registry
