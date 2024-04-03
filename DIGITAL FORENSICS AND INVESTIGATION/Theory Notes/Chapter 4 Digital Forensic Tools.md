@@ -1,6 +1,30 @@
 # Chapter 4 Digital Forensic Tools
 
 # Table of Contents
+- [Chapter 4 Digital Forensic Tools](#chapter-4-digital-forensic-tools)
+- [Table of Contents](#table-of-contents)
+- [Evaluating DigitaL Forensic Tools](#evaluating-digital-forensic-tools)
+- [Types of Digital Forensic Tools](#types-of-digital-forensic-tools)
+- [Task Performed by Digital Forensic Tools](#task-performed-by-digital-forensic-tools)
+  - [Acquisition](#acquisition)
+    - [Validation and Verification](#validation-and-verification)
+    - [Extraction](#extraction)
+    - [Reconstruction](#reconstruction)
+    - [Reporting](#reporting)
+    - [Acquisition subfunctions](#acquisition-subfunctions)
+- [Considerations for tools](#considerations-for-tools)
+  - [Considerations](#considerations)
+- [GUI Forensic Tools](#gui-forensic-tools)
+- [Digital Forensics Hardware Tools](#digital-forensics-hardware-tools)
+- [Forensic Workstation](#forensic-workstation)
+  - [Recommendations for a Forensic](#recommendations-for-a-forensic)
+  - [Recommendations when choosing stationary or lightweight workstation:](#recommendations-when-choosing-stationary-or-lightweight-workstation)
+- [Write blockers](#write-blockers)
+- [Validating and Testing Forensic Software](#validating-and-testing-forensic-software)
+- [Using National Institute of Standards and Technology Tools](#using-national-institute-of-standards-and-technology-tools)
+  - [Your lab must meet the following criteria for tool testing](#your-lab-must-meet-the-following-criteria-for-tool-testing)
+- [Using validation protocols](#using-validation-protocols)
+- [Summary](#summary)
 
 -----------------
 
